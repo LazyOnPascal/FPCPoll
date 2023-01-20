@@ -1,6 +1,9 @@
 # FPCPoll
+
 ##Small library for easy calling poll (fpPoll) in FPC
-# Using
+
+# Usage
+
 You have a socket named "sock" and would like to call a procedure "OnAccept" when a read is available. Then the usage would be...
 
 ```
